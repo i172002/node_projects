@@ -10,5 +10,3 @@ http.createServer(function (req, res) {
     })
    
 }).listen(9000);
-
-var dateModule = require('./myFirstModule')
